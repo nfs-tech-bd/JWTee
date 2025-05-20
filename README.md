@@ -27,4 +27,4 @@ Perfect for pentesting, debugging, or just taking a quick peek at those mysterio
 ### From PyPI (Recommended):
 
 ```bash
-python jwtee.py <token>
+pip install jwtee
